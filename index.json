@@ -57,6 +57,61 @@
       "speed":1,
       "file":"https://github.com/Highopes109/meowmoewminecraft-playlist-th/raw/refs/heads/main/Muse+-+Unnatural+Selection+%5BHD%5D+-+MrMuseLyrics.dfpwm",
       "time":415
-    }
+    },
+    {
+      "type":"song",
+      "name":"Bird Brain",
+      "author":"Jamie Page, Kasane Teto",
+      "speed":1,
+      "file":"https://github.com/Highopes109/meowmoewminecraft-playlist-th/raw/refs/heads/main/videoplayback.dfpwm",
+      "time":256
+    },
+    {
+      "type":"song",
+      "name":"Spoken For",
+      "author":"Flavor Foley",
+      "speed":1,
+      "file":"https://github.com/Highopes109/meowmoewminecraft-playlist-th/raw/refs/heads/main/Spoken%20For%20ft.%20Kasane%20Teto.dfpwm",
+      "time":254
+    },
+    {
+      "type":"song",
+      "name":"Roommates",
+      "author":"Malcolm Todd",
+      "speed":1,
+      "file":"https://github.com/Highopes109/meowmoewminecraft-playlist-th/raw/refs/heads/main/Roommates%20-%20Malcolm%20Todd%20(Music%20Video).dfpwm",
+      "time":215
+    },
+    {
+      "type":"song",
+      "name":"Jigsaw Falling into Place",
+      "author":"Radiohead",
+      "speed":1,
+      "file":"https://github.com/Highopes109/meowmoewminecraft-playlist-th/raw/refs/heads/main/Radiohead%20-%20Jigsaw%20Falling%20into%20Place%20%5BHD%5D.dfpwm",
+      "time":251
+    },
+    {
+      "type":"song",
+      "name":"Butcher Vanity",
+      "author":"Vane Lily",
+      "speed":1,
+      "file":"https://github.com/Highopes109/meowmoewminecraft-playlist-th/raw/refs/heads/main/BUTCHER%20VANITY%20%20Yi%20Xi.dfpwm",
+      "time":186
+    },
+    { 
+      "type":"song",
+      "name":"Ghost",
+      "author":"Boywithuke",
+      "speed":1,
+      "file":"https://github.com/Highopes109/meowmoewminecraft-playlist-th/raw/refs/heads/main/BoyWithUke%20-%20Ghost%20(Official%20Music%20Video).dfpwm",
+      "time":252
+    },
+    {
+      "type":"song",
+      "name":"Home",
+      "author":"Cavetown",
+      "speed":1,
+      "file":"https://github.com/Highopes109/meowmoewminecraft-playlist-th/raw/refs/heads/main/Cavetown%20-%20Home%20%5BOfficial%20Music%20Video%5D.dfpwm",
+      "time":277
   ]
 }
